@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|d:\\2ds\\thiago\\pam\\diceroller\\diceroller\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|d:\\2ds\\thiago\\pam\\diceroller\\diceroller\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|d:\\2ds\\thiago\\pam\\diceroller\\diceroller\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|d:\\2ds\\thiago\\pam\\diceroller\\diceroller\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4524DE0-339A-4AB3-BFE7-26B83857CA51}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\Dice.cs",
+              "RelativeDocumentMoniker": "DiceRoller\\Dice.cs",
+              "ToolTip": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\Dice.cs",
+              "RelativeToolTip": "DiceRoller\\Dice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:06:14.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DiceRoller\\MainPage.xaml.cs",
+              "ToolTip": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\MainPage.xaml.cs",
+              "RelativeToolTip": "DiceRoller\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:04:41.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DiceRoller\\MainPage.xaml",
+              "ToolTip": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\MainPage.xaml",
+              "RelativeToolTip": "DiceRoller\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T00:56:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\Game.cs",
+              "RelativeDocumentMoniker": "DiceRoller\\Game.cs",
+              "ToolTip": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\Game.cs",
+              "RelativeToolTip": "DiceRoller\\Game.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:55:56.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
