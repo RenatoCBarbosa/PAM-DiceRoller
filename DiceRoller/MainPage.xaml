@@ -42,6 +42,13 @@
                 Text="Você ganhou 0 vezes ao todo."
                 HorizontalOptions="Center"/>
 
+            <Label
+                x:Name="SomaLabel"
+                Text="Soma total do lado oposto: 0"
+                HorizontalOptions="Center"/>
+            
+                                
+            
         </VerticalStackLayout>
     </ScrollView>
 

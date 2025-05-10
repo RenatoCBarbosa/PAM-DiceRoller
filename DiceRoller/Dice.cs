@@ -22,29 +22,30 @@ namespace DiceRoller
         {
             Random random = new Random();
             int ladoDado = random.Next(6);
-            if (ladoDado == 0)
+            ladoDado += 1;
+            if (ladoDado == 1)
             {
-                LadoSorteado = "one";
-            }
-            else if (ladoDado == 1)
-            {
-                LadoSorteado = "two";
+                LadoSorteado = "dice_one";
             }
             else if (ladoDado == 2)
             {
-                LadoSorteado = "three";
+                LadoSorteado = "dice_two";
             }
             else if (ladoDado == 3)
             {
-                LadoSorteado = "four";
+                LadoSorteado = "dice_three";
             }
             else if (ladoDado == 4)
             {
-                LadoSorteado = "five";
+                LadoSorteado = "dice_four";
             }
             else if (ladoDado == 5)
             {
-                LadoSorteado = "six";
+                LadoSorteado = "dice_five";
+            }
+            else if (ladoDado == 6)
+            {
+                LadoSorteado = "dice_six";
             }
             //   LadoSorteado = random.Next(2) == 0 ? "Cara" : "Coroa";
 

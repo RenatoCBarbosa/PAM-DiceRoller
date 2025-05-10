@@ -199,6 +199,24 @@
     <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_five.scale-100.png">
+      <PackagePath>dice_five.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_four.scale-100.png">
+      <PackagePath>dice_four.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_one.scale-100.png">
+      <PackagePath>dice_one.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_six.scale-100.png">
+      <PackagePath>dice_six.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_three.scale-100.png">
+      <PackagePath>dice_three.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice_two.scale-100.png">
+      <PackagePath>dice_two.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -213,24 +231,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\five.scale-100.png">
-      <PackagePath>five.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\four.scale-100.png">
-      <PackagePath>four.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\one.scale-100.png">
-      <PackagePath>one.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\six.scale-100.png">
-      <PackagePath>six.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\three.scale-100.png">
-      <PackagePath>three.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\two.scale-100.png">
-      <PackagePath>two.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DiceRoller.deps.json">
       <PackagePath>DiceRoller.deps.json</PackagePath>
