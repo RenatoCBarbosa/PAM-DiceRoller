@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
+      "projectUniqueName": "D:\\2DS\\Renato\\PAM-I\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
       "projectName": "DiceRoller",
-      "projectPath": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
+      "projectPath": "D:\\2DS\\Renato\\PAM-I\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\2DS\\Thiago\\PAM\\DiceRoller\\DiceRoller\\obj\\",
+      "outputPath": "D:\\2DS\\Renato\\PAM-I\\DiceRoller\\DiceRoller\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

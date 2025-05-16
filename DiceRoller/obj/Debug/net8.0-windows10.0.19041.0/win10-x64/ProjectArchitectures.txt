@@ -1,1 +1,1 @@
-D:\2DS\Thiago\PAM\DiceRoller\DiceRoller\DiceRoller.csproj;x64
+D:\2DS\Renato\PAM-I\DiceRoller\DiceRoller\DiceRoller.csproj;x64
